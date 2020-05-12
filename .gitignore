@@ -19,3 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+src/assets/logo.png
+src/components/HelloWorld.vue
+src/assets/logo.png
+src/components/HelloWorld.vue
